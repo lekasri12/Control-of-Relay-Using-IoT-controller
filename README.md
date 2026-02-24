@@ -45,6 +45,8 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 <img width="1920" height="1080" alt="Screenshot 2026-02-13 101341" src="https://github.com/user-attachments/assets/c4ee3505-bb10-4c24-b558-d95cf060427c" />
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2026-02-24 135850" src="https://github.com/user-attachments/assets/4fcc7957-aa60-470f-aeda-fdc9158f0c3b" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-13 101229" src="https://github.com/user-attachments/assets/8ff54426-6c60-4b5e-a5ad-6b51c23a34de" />
 
 ## RESULT:
